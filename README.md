@@ -47,8 +47,8 @@ https://onboardcloud.dl.sourceforge.net/project/orwelldevcpp/Setup%20Releases/De
 <th colspan="2">Graphs</th>
 </tr>
 <tr>
-<td width="280"><img src="" alt="graph-1"></td>
-<td width="280"><img src="" alt="graph-2"></td>
+<td width="420"><img src="" alt="graph-1"></td>
+<td width="420"><img src="" alt="graph-2"></td>
 </tr>
 </table>
 
