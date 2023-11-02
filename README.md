@@ -48,7 +48,7 @@ https://onboardcloud.dl.sourceforge.net/project/orwelldevcpp/Setup%20Releases/De
 </tr>
 <tr>
 <td width="420"><img src="https://github.com/devancakra/Statistika-Komputasi-Pengolahan-Data/assets/54527592/0be78f62-8f14-4bbb-bf05-679858ac0ceb" alt="graph-1"></td>
-<td width="420"><img src="" alt="graph-2"></td>
+<td width="420"><img src="https://github.com/devancakra/Statistika-Komputasi-Pengolahan-Data/assets/54527592/54d7baf9-8f04-4a53-a7ca-373e43d3b67e" alt="graph-2"></td>
 </tr>
 </table>
 
@@ -62,4 +62,3 @@ Permission is hereby granted without charge to any person obtaining a copy of th
 The above copyright notice and this permission notice must accompany all copies or substantial portions of the Software.
 
 IN ANY EVENT, THE AUTHOR OR COPYRIGHT HOLDER HEREIN RETAINS FULL OWNERSHIP RIGHTS. THE SOFTWARE IS PROVIDED AS IS, WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, THEREFORE IF ANY DAMAGE, LOSS, OR OTHERWISE ARISES FROM THE USE OR OTHER DEALINGS IN THE SOFTWARE, THE AUTHOR OR COPYRIGHT HOLDER SHALL NOT BE LIABLE, AS THE USE OF THE SOFTWARE IS NOT COMPELLED AT ALL, SO THE RISK IS YOUR OWN.
-
