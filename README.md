@@ -9,7 +9,7 @@ Simple Project related to Data Processing.
 
 <br>
 
-## Features / Framework / Tools
+## Project Requirements
 | Part | Description |
 | --- | --- |
 | Features | Computation, Graphs |
