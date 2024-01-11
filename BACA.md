@@ -9,7 +9,7 @@ Proyek Sederhana yang berkaitan dengan Pemrosesan Data.
 
 <br>
 
-## Fitur / Kerangka Kerja / Peralatan
+## Kebutuhan Proyek
 | Bagian | Deskripsi |
 | --- | --- |
 | Fitur | Komputasi, Grafik |
