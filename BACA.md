@@ -18,9 +18,14 @@ Proyek Sederhana yang berkaitan dengan Pemrosesan Data.
 <br>
 
 ## Unduh & Instal Dev C++
-```bash
+
+<table><tr><td width="840">
+
+```
 https://onboardcloud.dl.sourceforge.net/project/orwelldevcpp/Setup%20Releases/Dev-Cpp%205.11%20TDM-GCC%204.9.2%20Setup.exe
 ```
+
+</td></tr></table>
 
 <br>
 
@@ -52,6 +57,11 @@ https://onboardcloud.dl.sourceforge.net/project/orwelldevcpp/Setup%20Releases/De
 <td width="420"><img src="https://github.com/devancakra/Statistika-Komputasi-Pengolahan-Data/assets/54527592/54d7baf9-8f04-4a53-a7ca-373e43d3b67e" alt="graph-2"></td>
 </tr>
 </table>
+
+<br>
+
+## Apresiasi
+Jika anda merasa karya ini bermanfaat, dukunglah karya ini sebagai bentuk apresiasi kepada penulis dengan cara mengeklik tombol ``` ⭐Bintang ```.
 
 <br>
 
