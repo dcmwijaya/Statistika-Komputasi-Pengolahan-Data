@@ -22,7 +22,7 @@ Proyek Sederhana yang berkaitan dengan Pemrosesan Data.
 <table><tr><td width="840">
 
 ```
-https://onboardcloud.dl.sourceforge.net/project/orwelldevcpp/Setup%20Releases/Dev-Cpp%205.11%20TDM-GCC%204.9.2%20Setup.exe
+http://bit.ly/DEVC_Installer
 ```
 
 </td></tr></table>
