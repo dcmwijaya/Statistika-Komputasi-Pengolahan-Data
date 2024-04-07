@@ -22,7 +22,7 @@ Proyek Sederhana yang berkaitan dengan Pemrosesan Data.
 <table><tr><td width="840">
 
 ```
-http://bit.ly/DEVC_Installer
+https://bit.ly/DEVC_Installer
 ```
 
 </td></tr></table>
