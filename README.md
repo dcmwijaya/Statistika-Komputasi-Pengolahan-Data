@@ -1,7 +1,8 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?style=flat)](https://github.com/ellerbrock/open-source-badges/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
-![GitHub last commit](https://img.shields.io/github/last-commit/devancakra/Statistika-Komputasi-Pengolahan-Data)
-![C](https://img.shields.io/badge/programming%20-%2300599C.svg?&logo=c&logoColor=white)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?logo=github&color=%23F7DF1E)](https://opensource.org/licenses/MIT)
+![GitHub last commit](https://img.shields.io/github/last-commit/devancakra/Statistika-Komputasi-Pengolahan-Data?logo=Codeforces&logoColor=white&color=%23F7DF1E)
+![Project](https://img.shields.io/badge/Project-Desktop-light.svg?style=flat&logo=c&logoColor=white&color=%23F7DF1E)
+![Type](https://img.shields.io/badge/Type-Campus%20Assignment-light.svg?style=flat&logo=gitbook&logoColor=white&color=%23F7DF1E)
 
 # Statistika-Komputasi-Pengolahan-Data
 <strong>Computational Statistics Assignment</strong><br>
@@ -44,8 +45,8 @@ https://bit.ly/DEVC_Installer
 <th width="420">Computation</th>
 </tr>
 <tr>
-<td><img src="https://github.com/devancakra/Statistika-Komputasi-Pengolahan-Data/assets/54527592/f38b0f6d-f017-4433-8587-28bbcfcad99b" alt="survey-data"></td>
-<td><img src="https://github.com/devancakra/Statistika-Komputasi-Pengolahan-Data/assets/54527592/595957a0-374b-4613-837a-b0c371b3a164" alt="computation"></td>
+<td><img src="Documentation/Survey Data.jpg" alt="survey-data"></td>
+<td><img src="Documentation/Computation.jpg" alt="computation"></td>
 </tr>
 </table>
 <table>
@@ -53,8 +54,8 @@ https://bit.ly/DEVC_Installer
 <th colspan="2">Graphs</th>
 </tr>
 <tr>
-<td width="420"><img src="https://github.com/devancakra/Statistika-Komputasi-Pengolahan-Data/assets/54527592/0be78f62-8f14-4bbb-bf05-679858ac0ceb" alt="graph-1"></td>
-<td width="420"><img src="https://github.com/devancakra/Statistika-Komputasi-Pengolahan-Data/assets/54527592/54d7baf9-8f04-4a53-a7ca-373e43d3b67e" alt="graph-2"></td>
+<td width="420"><img src="Documentation/Graph-1.jpg" alt="graph-1"></td>
+<td width="420"><img src="Documentation/Graph-2.jpg" alt="graph-2"></td>
 </tr>
 </table>
 
@@ -66,7 +67,7 @@ If this work is useful to you, then support this work as a form of appreciation 
 <br>
 
 ## LICENSE
-MIT License - Copyright © 2020 - Devan Cakra Mudra Wijaya
+MIT License - Copyright © 2020 - Devan C. M. Wijaya
 
 Permission is hereby granted without charge to any person obtaining a copy of this software and the software-related documentation files to deal in them without restriction, including without limitation the right to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons receiving the Software to be furnished therewith on the following terms:
 
