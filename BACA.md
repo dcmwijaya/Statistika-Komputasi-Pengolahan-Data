@@ -4,7 +4,7 @@
 ![Project](https://img.shields.io/badge/Project-Desktop-light.svg?style=flat&logo=c&logoColor=white&color=%23F7DF1E)
 ![Type](https://img.shields.io/badge/Type-Campus%20Assignment-light.svg?style=flat&logo=gitbook&logoColor=white&color=%23F7DF1E)
 
-# Statistika-Komputasi-Pengolahan-Data
+# Statistika Komputasi Pengolahan Data
 <strong>Tugas Statistika Komputasi</strong><br>
 Proyek Sederhana yang berkaitan dengan Pemrosesan Data.
 
